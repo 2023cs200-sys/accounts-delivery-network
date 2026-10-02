@@ -393,26 +393,3 @@ Through this project, I gained practical experience in:
 * Verifying communication between different subnets
 * Documenting network infrastructure
 * Using Cisco Packet Tracer for network simulation
-
----
-
-## 📌 Project Status
-
-**Completed**
-
-The network topology, subnetting plan, device configuration, and connectivity testing were implemented and documented using Cisco Packet Tracer.
-
----
-
-## 👤 Author
-
-**Hashini Gayathri**
-
-Computer Science Undergraduate
-Sri Lanka
-
----
-
-## 📚 Disclaimer
-
-This project was created for **educational and portfolio purposes** using Cisco Packet Tracer. It demonstrates fundamental enterprise networking concepts in a simulated environment.
